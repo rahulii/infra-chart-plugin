@@ -2,7 +2,6 @@ annotations:
   artifacthub.io/changes: ""
   artifacthub.io/links: ""
   artifacthub.io/operator: "true"
-  artifacthub.io/prerelease: "true"
 
 apiVersion: v2
 name: demo-helm-chart
